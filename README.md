@@ -3,7 +3,7 @@ My vue.js + vuetify and cordova starter, for building APKS
 
 ## Présentation :
 On peut désormais créer un APK Android et le vendre, en compilant une simple application réalisée en VUE.JS avec CORDOVA. 
-Plus besoin d'utiliser le framework IONIC !
+Plus besoin d'utiliser le framework IONIC ! Le serveur, lui, peut rester en ligne sur Heroku, par exemple, et la base de données sur mongoDb atlas .
 
 ## Description :
 Nowadays, it is now possible to create an Android APK, and to sell it, by simply compiling the vue.js app using CORDOVA !
