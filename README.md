@@ -16,7 +16,6 @@ Plus besoin d'utiliser le framework IONIC ! Le serveur, lui, peut rester en lign
 https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-vuejs/
 
 ## Project setup 
-Commencer le projet :
 
 1. Clone this depot, then run <br>
 ```#npm install ```
