@@ -1,4 +1,5 @@
-# vuetify-mobile-cordova
+![Screenshot](logo.png)
+
 My vue.js + vuetify and cordova starter, for building APKS and sell them .
 
 ## Description :
