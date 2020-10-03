@@ -15,7 +15,8 @@ Plus besoin d'utiliser le framework IONIC ! Le serveur, lui, peut rester en lign
 ## Official complete doc Link(French)
 https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-vuejs/
 
-## Project setup - Commencer le projet :
+## Project setup 
+Commencer le projet :
 
 1. Clone this depot, then run <br>
 ```#npm install ```
@@ -26,13 +27,15 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 3. Install Android Studio, SDK , JDK , Gradle then check that everything is ok:  <br>
 ```#cordova requirements```
 
-## Dev the vue.js APP on localhost:8080 - Développer l'application vue.js sur localhost:8080 :
+## Dev the vue.js APP on localhost:8080 
+Packager l'application vue.js sur localhost:8080 :
 
 ```#npm run serve ```
 
 
 
-## Packing the production vue.js front end app - Créer l'application front end vue.js pour la production  :
+## Packing the production vue.js front end app 
+Créer l'application front end vue.js pour la production  :
 ```#npm run build```
 
 
