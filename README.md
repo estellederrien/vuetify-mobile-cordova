@@ -30,6 +30,7 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 Développer l'application vue.js sur localhost:8080 : tout se passe dans le rep \src <br>
 Go to the \vuetify-mobile-cordova dir, then hit, to start the dev env : <br>
 ```#npm run serve ```
+Then, gotto the \src directory and start developping.
 
 
 
