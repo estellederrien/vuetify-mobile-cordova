@@ -20,10 +20,10 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 1. Clone this depot, then run <br>
 ```#npm install ```
 
-2. Install cordova <br>
+2. Install cordova in another directory<br>
 ```#cordova create cordovatest com.exemple.test "My app"```
 
-3. Install Android Studio, SDK , JDK , Gradle then hit:  <br>
+3. Install Android Studio, SDK , JDK , Gradle then check that everything is ok:  <br>
 ```#cordova requirements```
 
 ## Dev the vue.js APP on localhost:8080 - Développer l'application vue.js sur localhost:8080 :
