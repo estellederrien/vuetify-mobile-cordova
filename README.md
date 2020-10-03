@@ -12,7 +12,7 @@ On peut désormais créer un APK Android et le vendre, en compilant une simple a
 Plus besoin d'utiliser le framework IONIC ! Le serveur, lui, peut rester en ligne sur Heroku, par exemple, et la base de données sur mongoDb atlas .
 
 
-## Link(French)
+## Official complete doc Link(French)
 https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-vuejs/
 
 ## Project setup - Commencer le projet :
