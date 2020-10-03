@@ -18,30 +18,30 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 ## Project setup - Commencer le projet :
 
 1. Clone this depot, then run
-#npm install 
+```#npm install ```
 
 2. Install cordova
-cordova create cordovatest com.exemple.test "My app"
+```#cordova create cordovatest com.exemple.test "My app"```
 
 3. Install Android Studio, SDK , JDK , Gradle then hit 
-cordova requirements
+```#cordova requirements```
 
 ## Dev the vue.js APP on localhost:8080 - Développer l'application vue.js sur localhost:8080 :
 
-#npm run serve 
+```#npm run serve ```
 (Dev the app in the \src directory)
 
 
 ## Packing the production vue.js front end app - Créer l'application front end vue.js pour la production  :
-#npm run build
+```#npm run build```
 (Find the app in \dist)
 
 ## Build the APK :
 Moove the \dist content to cordovatest\www ,then run 
-#cordova build android --release
+```#cordova build android --release```
 
 ## Preview the APK :
-#cordova run android
+```#cordova run android```
 
 ## Sell it to the store :
 Check this link :
@@ -49,9 +49,9 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 
 ## Run your vue.js tests
 
-#npm run test
+```#npm run test```
 
 ## Lints and fixes files
 
-#npm run lint
+```#npm run lint```
 
