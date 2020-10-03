@@ -29,19 +29,20 @@ Commencer le projet :
 
 ## Developping the front end vue.js app :
 Développer l'application vue.js sur localhost:8080 : <br>
-Go to the vuetify-mobile-cordova dir then hit : <br>
+Go to the \vuetify-mobile-cordova dir, then hit : <br>
 ```#npm run serve ```
 
 
 
 ## Packing the production app :
 Packager l'application front end vue.js pour la production  : <br>
-Go to the vuetify-mobile-cordova dir then hit, the app will appear in the \dist directory : <br>
+Go to the \vuetify-mobile-cordova dir then hit:
 ```#npm run build```
+the packaged app will appear in the \dist directory.  
 
 
 ## Build the APK :
-Moove the \dist content to cordovatest\www ,then run : <br>
+Moove the \vuetify-mobile-cordova\dist content to cordovatest\www ,then run : <br>
 ```#cordova build android --release```
 
 ## Preview the APK :
