@@ -1,4 +1,7 @@
 module.exports = {
- outputDir: 'C:/uwamp/www/cordovatest/www',
-  publicPath :'./'
+  "outputDir": "C:/uwamp/www/cordovatest/www",
+  "publicPath": "./",
+  "transpileDependencies": [
+    "vuetify"
+  ]
 }
