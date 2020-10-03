@@ -29,7 +29,7 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 ## Developping the front end vue.js app :
 Développer l'application vue.js sur localhost:8080 : tout se passe dans le rep \src <br>
 Go to the \vuetify-mobile-cordova dir, then hit, to start the dev env : <br>
-```#npm run serve ```
+```#npm run serve ```<br>
 Then, gotto the \src directory and start developping.
 
 
@@ -37,7 +37,7 @@ Then, gotto the \src directory and start developping.
 ## Packing the production app :
 Packager l'application front end vue.js pour la production  : <br>
 Go to the \vuetify-mobile-cordova dir then hit:<br>
-```#npm run build```
+```#npm run build```<br>
 the packaged app will appear in the \dist directory.  
 
 
@@ -49,7 +49,8 @@ Moove the \vuetify-mobile-cordova\dist content to cordovatest\www ,then run : <b
 ```#cordova run android```
 
 ## Sell it on the GOOGLE STORE :
-you have to sign the APK, vous devez signer l'apk et ouvrir un compte google store dev.
+you have to sign the APK<br>
+Vous devez signer l'apk et ouvrir un compte google store dev.<br>
 Check this link :<br>
 https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-vuejs/
 
