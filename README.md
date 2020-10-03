@@ -20,7 +20,7 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 1. Clone this depot, then run <br>
 ```#npm install ```
 
-2. Install cordova in another directory<br>
+2. Install a cordova app in another directory<br>
 ```#cordova create cordovatest com.exemple.test "My app"```
 
 3. Install Android Studio, SDK , JDK , Gradle then check that everything is ok:  <br>
