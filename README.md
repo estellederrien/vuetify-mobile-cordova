@@ -29,22 +29,22 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 ## Dev the vue.js APP on localhost:8080 - Développer l'application vue.js sur localhost:8080 :
 
 ```#npm run serve ```
-(Dev the app in the \src directory)
+
 
 
 ## Packing the production vue.js front end app - Créer l'application front end vue.js pour la production  :
 ```#npm run build```
-(Find the app in \dist)
+
 
 ## Build the APK :
-Moove the \dist content to cordovatest\www ,then run 
+Moove the \dist content to cordovatest\www ,then run : <br>
 ```#cordova build android --release```
 
 ## Preview the APK :
 ```#cordova run android```
 
 ## Sell it to the store :
-Check this link :
+Check this link :<br>
 https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-vuejs/
 
 ## Run your vue.js tests
