@@ -28,14 +28,15 @@ Commencer le projet :
 ```#cordova requirements```
 
 ## Dev the vue.js APP on localhost:8080 
-Packager l'application vue.js sur localhost:8080 :
-
+Développer l'application vue.js sur localhost:8080 :
+Go to the vuetify-mobile-cordova dir then hit :
 ```#npm run serve ```
 
 
 
 ## Packing the production vue.js front end app 
-Créer l'application front end vue.js pour la production  :
+Packager l'application front end vue.js pour la production  :
+Go to the vuetify-mobile-cordova dir then hit, the app will appear in the \dist directory :
 ```#npm run build```
 
 
