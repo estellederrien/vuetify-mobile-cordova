@@ -17,7 +17,7 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 
 ## Project setup 
 
-1. Clone this depot, then run <br>
+1. Clone this depot using SMARGIT, then run <br>
 ```#npm install ```
 
 2. Install a cordova app in another directory<br>
