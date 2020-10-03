@@ -12,7 +12,7 @@ On peut désormais créer un APK Android et le vendre, en compilant une simple a
 Plus besoin d'utiliser le framework IONIC ! Le serveur, lui, peut rester en ligne sur Heroku, par exemple, et la base de données sur mongoDb atlas .
 
 
-## Official complete doc Link(French)
+## Official Link(French)
 https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-vuejs/
 
 ## Project setup 
@@ -36,7 +36,7 @@ Go to the \vuetify-mobile-cordova dir, then hit : <br>
 
 ## Packing the production app :
 Packager l'application front end vue.js pour la production  : <br>
-Go to the \vuetify-mobile-cordova dir then hit:
+Go to the \vuetify-mobile-cordova dir then hit:<br>
 ```#npm run build```
 the packaged app will appear in the \dist directory.  
 
