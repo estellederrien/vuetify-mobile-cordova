@@ -27,16 +27,16 @@ Commencer le projet :
 3. Install Android Studio, SDK , JDK , Gradle then check that everything is ok:  <br>
 ```#cordova requirements```
 
-## Dev the vue.js APP on localhost:8080 
-Développer l'application vue.js sur localhost:8080 :
-Go to the vuetify-mobile-cordova dir then hit :
+## Developping the front end vue.js app :
+Développer l'application vue.js sur localhost:8080 : <br>
+Go to the vuetify-mobile-cordova dir then hit : <br>
 ```#npm run serve ```
 
 
 
-## Packing the production vue.js front end app 
-Packager l'application front end vue.js pour la production  :
-Go to the vuetify-mobile-cordova dir then hit, the app will appear in the \dist directory :
+## Packing the production app :
+Packager l'application front end vue.js pour la production  : <br>
+Go to the vuetify-mobile-cordova dir then hit, the app will appear in the \dist directory : <br>
 ```#npm run build```
 
 
