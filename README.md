@@ -48,6 +48,7 @@ Moove the \dist content to cordovatest\www ,then run : <br>
 ```#cordova run android```
 
 ## Sell it on the GOOGLE STORE :
+you have to sign the APK, vous devez signer l'apk et ouvrir un compte google store dev.
 Check this link :<br>
 https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-vuejs/
 
