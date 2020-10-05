@@ -43,7 +43,7 @@ the packaged app will appear in the \dist directory.
 
 ## Build the APK :
 Moove the \vuetify-mobile-cordova\dist content to cordovatest\www ,then run : <br>
-```#cordova build android --release```
+```#cordova build android --prod```
 
 ## Preview the APK :
 ```#cordova run android```
