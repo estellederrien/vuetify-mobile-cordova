@@ -72,5 +72,9 @@ https://adbdriver.com/downloads/
 
 ## Preview the APK = KO on :
  - Android 4.0 ( Seems to be too old) - Samsung tablet
+ 
+ ## Known Problems - Problèmes connus
+ 
+ - USB port is not powerful enough, add a powered usb hub . Le port USB ne débite pas assez de courant, ajouter un hub USB alimenté.
 
 
