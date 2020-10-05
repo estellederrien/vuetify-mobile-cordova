@@ -16,6 +16,9 @@ Ca va vraiment très vite si on n'utilise plus Ionic et qu'on fait bien les styl
 ## Official Link(French)
 https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-vuejs/
 
+## If you need to use Cordova plugins like Camera (French):
+https://cours.brosseau.ovh/tp/cordova/vuejs_cordova.html
+
 ## Project setup 
 
 1. Clone this depot using SMARGIT, then run <br>
