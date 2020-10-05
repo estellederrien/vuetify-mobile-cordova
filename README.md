@@ -65,3 +65,11 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 ## Adb problems : 
 https://adbdriver.com/downloads/
 
+## Tested OK on :
+
+- Android 8.0 - Mobile Phone
+
+## Preview the APK = KO on :
+ - Android 4.0 ( Seems to be too old) - Samsung tablet
+
+
