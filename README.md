@@ -62,3 +62,6 @@ https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-
 
 ```#npm run lint```
 
+## Adb problems : 
+https://adbdriver.com/downloads/
+
