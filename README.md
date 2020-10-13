@@ -55,11 +55,11 @@ Packager l'application front end vue.js pour la production  : <br>
 ## Build the APK :
 Moove the \vuetify-mobile-cordova\dist content to cordovatest\www ,then run : <br>
 ```bash 
-#cordova build android --prod
+cordova build android --prod
 ```
 
 ## Preview APK :
-```#cordova run android```
+```cordova run android```
 
 ## Sell it on GOOGLE STORE :
 You have to sign the APK<br>
