@@ -22,37 +22,43 @@ https://cours.brosseau.ovh/tp/cordova/vuejs_cordova.html
 ## Project setup 
 
 1. Clone this depot using SMARGIT, then run <br>
-```#npm install ```
+```npm install ```
 
 2. Install a cordova app in another directory<br>
-```#cordova create cordovatest com.exemple.test "My app"```
+```cordova create cordovatest com.exemple.test "My app"```
 
 3. Install Android Studio, SDK , JDK , Gradle then check that everything is ok:  <br>
-```#cordova requirements```
+```cordova requirements```
 
 ## Developping the front end vue.js app :
-Développer l'application vue.js sur localhost:8080 : tout se passe dans le rep \src <br>
-Go to the \vuetify-mobile-cordova dir, then hit, to start the dev env : <br>
-```#npm run serve ```<br>
-Then, gotto the \src directory and start developping.
 
+
+```bash
+npm run serve
+```<br>
+Then, gotto the \src directory and start developping.
+Développer l'application vue.js sur localhost:8080 : tout se passe dans le rep \src <br><br>
 
 
 ## Packing the production app :
 Packager l'application front end vue.js pour la production  : <br>
 Go to the \vuetify-mobile-cordova dir then hit:<br>
-```#npm run build```<br>
+```bash 
+#npm run build
+```<br>
 the packaged app will appear in the \dist directory.  
 
 
 ## Build the APK :
 Moove the \vuetify-mobile-cordova\dist content to cordovatest\www ,then run : <br>
-```#cordova build android --prod```
+```bash 
+#cordova build android --prod
+```
 
-## Preview the APK :
+## Preview APK :
 ```#cordova run android```
 
-## Sell it on the GOOGLE STORE :
+## Sell it on GOOGLE STORE :
 you have to sign the APK<br>
 Vous devez signer l'apk et ouvrir un compte google store dev.<br>
 Check this link :<br>
