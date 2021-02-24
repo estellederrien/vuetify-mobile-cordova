@@ -1,6 +1,6 @@
 ![Screenshot](logo.png)
 
-My vue.js + vuetify and cordova starter, for building APKS and sell them .
+My vue.js + vuetify and cordova starter, made to  build APKS and sell them .
 
 ## Description :
 Nowadays, it is now possible to create an Android APK, and to sell it, by simply compiling the vue.js app using CORDOVA !
